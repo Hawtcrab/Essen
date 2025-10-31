@@ -1,4 +1,4 @@
-package game.factions;
+package main.game.factions;
 
 public class BaseFaction {
 }

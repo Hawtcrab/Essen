@@ -1,6 +1,6 @@
-package game.gui.screens;
+package main.game.gui.screens;
 
-import game.characters.BaseCharacter;
+import main.game.characters.BaseCharacter;
 
 public class InventoryScreen extends CharacterScreen{
     public InventoryScreen(BaseCharacter character) {

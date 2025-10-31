@@ -1,4 +1,4 @@
-package game.items;
+package main.game.items;
 
 import java.util.Collections;
 import java.util.LinkedList;

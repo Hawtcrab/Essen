@@ -1,6 +1,6 @@
-package game.gui.screens;
+package main.game.gui.screens;
 
-import game.characters.BaseCharacter;
+import main.game.characters.BaseCharacter;
 
 public class StatScreen extends CharacterScreen{
     public StatScreen(BaseCharacter character) {

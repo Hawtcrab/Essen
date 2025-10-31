@@ -1,4 +1,4 @@
-package game.locations;
+package main.game.locations;
 
 public class BaseLocation {
 }

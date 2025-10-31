@@ -1,10 +1,8 @@
-package game.items;
+package main.game.items;
 
-import game.GameObject;
+import main.game.GameObject;
 
-import java.util.Collections;
 import java.util.LinkedList;
-import java.util.List;
 
 public class BaseItem extends GameObject {
 

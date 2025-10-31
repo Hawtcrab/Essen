@@ -1,6 +1,5 @@
-package game.items;
+package main.game.items;
 
-import java.util.LinkedList;
 import java.util.List;
 
 public interface IContentHaver {
