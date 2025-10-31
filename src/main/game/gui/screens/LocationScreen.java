@@ -5,10 +5,10 @@ public class LocationScreen extends BaseScreen {
     public LocationScreen() {
         super("/textures/backgrounds/main.png");
     }
+
     public LocationScreen(String imagePath) {
         super(imagePath);
     }
-
 
     @Override
     protected void paintElements() {
