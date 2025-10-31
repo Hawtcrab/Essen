@@ -4,7 +4,7 @@ package main;
 /// accessible for the programmer.
 
 public class GameFiles {
-
+    // Hier könnte ihre Werbung stehen.
     public static String basePath;
     public static String mainScreen;
 }
